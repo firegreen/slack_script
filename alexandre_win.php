@@ -1,6 +1,6 @@
 $user_agent = "aleqsandre_win/1.0 (steeve.v91@gmail.com)";
 
-if($_POST['token'] != 'bpejfGynnKBIs6QvgztFuLjP'){ 
+if($_POST['token'] != 'DpOnUdtLyqry3hf6OXlMgEKv'){ 
     $msg = "The token for the slash command doesn't match. Check your script.";
     die($msg);
     echo $msg;
